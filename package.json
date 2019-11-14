@@ -15,7 +15,7 @@
     "@babel/polyfill": "^7.6.0",
     "@babel/runtime": "^7.6.2",
     "bootstrap": "^3.3.7",
-    "jquery": "^1.12.4",
+    "jquery": "^3.4.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "mint-ui": "^2.2.13",
